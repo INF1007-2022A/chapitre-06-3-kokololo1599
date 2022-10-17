@@ -1,0 +1,18 @@
+{
+  "get_maximums": {
+    "name": "Maximums d'une liste de listes",
+    "points": 1
+  },
+  "join_integers": {
+    "name": "Concaténation de nombres",
+    "points": 1
+  },
+  "generate_prime_numbers": {
+    "name": "Crible d'Ératosthène",
+    "points": 1
+  },
+  "combine_strings_and_numbers": {
+    "name": "Combinaisons de strings et de nombres",
+    "points": 1
+  }
+}
